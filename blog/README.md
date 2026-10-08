@@ -2,7 +2,7 @@
 
 Cada carpeta tiene el código de un video de YouTube o un post de [triggerdb.com](https://www.triggerdb.com), con su README y los links al contenido.
 
-_Próximamente._
+- [pausar-capacidad-fabric-automation](pausar-capacidad-fabric-automation/): pausar y reanudar una capacidad de Fabric con un runbook de Azure Automation y horarios.
 
 ---
 ## Sobre el autor

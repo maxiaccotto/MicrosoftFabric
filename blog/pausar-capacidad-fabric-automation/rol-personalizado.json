@@ -1,0 +1,17 @@
+{
+  "Name": "Fabric - Pausar y reanudar capacidad",
+  "IsCustom": true,
+  "Description": "Permite leer, pausar y reanudar capacidades de Microsoft Fabric. Pensado para la identidad administrada de una cuenta de Azure Automation.",
+  "Actions": [
+    "Microsoft.Fabric/capacities/read",
+    "Microsoft.Fabric/capacities/write",
+    "Microsoft.Fabric/capacities/suspend/action",
+    "Microsoft.Fabric/capacities/resume/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/<id-de-suscripcion>/resourceGroups/<grupo-de-recursos>"
+  ]
+}

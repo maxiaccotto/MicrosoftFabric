@@ -14,7 +14,7 @@ Código de ejemplo, herramientas y proyectos de IA de **Maxi Accotto** sobre Mic
 
 | Ejemplo | Post | Video |
 |---|---|---|
-| _Próximamente_ | | |
+| [Pausar Microsoft Fabric automáticamente con Azure Automation](blog/pausar-capacidad-fabric-automation/) | _Próximamente_ | _Próximamente_ |
 
 ¿Te sirvió? Dejale una ⭐ al repo y suscribite al canal para no perderte los próximos.
 
